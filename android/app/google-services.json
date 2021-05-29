@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67492392573",
+    "project_id": "beta-b-scan",
+    "storage_bucket": "beta-b-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67492392573:android:cdc4fb5a43add2be9bcb14",
+        "android_client_info": {
+          "package_name": "com.example.b_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67492392573-8mnt57t94ub77ehubk3sqn9k9464j8bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDXoUbzTq-YONs7RLYSFVXQaG4UQ4IRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67492392573-8mnt57t94ub77ehubk3sqn9k9464j8bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
